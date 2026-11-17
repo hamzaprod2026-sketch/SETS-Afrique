@@ -1,0 +1,1 @@
+Les images de démonstration sont actuellement chargées par URL depuis Unsplash dans les fichiers HTML/CSS. Remplacez-les par les visuels officiels autorisés de SETS AFRIQUE avant la mise en production.
